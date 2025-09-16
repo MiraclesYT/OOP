@@ -1,0 +1,4 @@
+﻿  task4.cpp
+C:\Users\Mishа\Downloads\task4\task4.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Mishа\Downloads\task4\task4.cpp(7,26): warning C4305: инициализация: усечение из "double" в "float"
+  task4.vcxproj -> C:\Users\Mishа\Downloads\Op-lab3\x64\Debug\task4.exe
